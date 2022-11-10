@@ -1,0 +1,28 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 956px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 34px auto 0 10px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 17px auto 0 10px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 760px;
+  margin-top: 34px;
+  margin-bottom: 17px;
+}.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 17px auto 60px 0;
+}@font-face {
+  font-family: 'ProductSans-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/ProductSans-Bold.ttf);
+}

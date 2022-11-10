@@ -1,0 +1,134 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 888px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: ProductSans-Bold;
+  background-image: none;
+  font-size: 3.75rem;
+  margin: 40px 77px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Nunito;
+  margin: 28px 0 0 588px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 428px;
+  margin: -335px auto 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.125rem;
+  margin: 0 578px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 570px;
+  height: 428px;
+  margin: -398px 0 0 auto;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.125rem;
+  font-family: Nunito;
+  margin: 16px 9px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1164px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 388px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 470px;
+    height: 353px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 378px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 470px;
+    height: 353px;
+    margin-top: -235px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 44px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1081px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 168px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 158px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -206px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 16px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1014px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 916px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 255px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 255px;
+    margin-top: -63px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -30px;
+  }
+}@font-face {
+  font-family: 'ProductSans-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/ProductSans-Bold.ttf);
+}
